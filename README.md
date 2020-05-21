@@ -1,6 +1,6 @@
 # unidbg_douyin libcms.so.10.6
 
-本DEMO项目基于 unicorn 和 参考ExAndroidNativeEmu 个人学习使用，不在更新,记于4月8日
+本DEMO项目基于 unicorn 和 参考ExAndroidNativeEmu 个人学习使用，10.6是最后一个能用的版本,不在更新,记于4月8日
 
 关于 [unicorn](https://github.com/zhkl0228/unicorn) 
 关于 [ExAndroidNativeEmu](https://github.com/maiyao1988/ExAndroidNativeEmu)
